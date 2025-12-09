@@ -1,12 +1,11 @@
-# Project: NAME
+# Project: ClassMate
 
 ## Contributors
-NAME, NAME, NAME
+Grant Miranda
 
 ## Dependencies
-- LANGUAGE AND VERSION
-- EXTERNAL LIBRARIES
-- ETC
+- Java (including compiler)
 
 ## Build Instructions
-HOW TO BUILD YOUR PROJECT.
+javac ClassMateApp.java ClassCourse.java Assignment.java
+java ClassMateApp
