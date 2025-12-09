@@ -8,4 +8,5 @@ Grant Miranda
 
 ## Build Instructions
 javac ClassMateApp.java ClassCourse.java Assignment.java
+
 java ClassMateApp
